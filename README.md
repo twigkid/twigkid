@@ -1,25 +1,21 @@
 ```
-  `.::///+:/-.        --///+//-:``    twigkid@raspberrypi
- `+oooooooooooo:   `+oooooooooooo:    -----------
-  /oooo++//ooooo:  ooooo+//+ooooo.    OS: Raspbian GNU/Linux 11 (bullseye) armv
-  `+ooooooo:-:oo-  +o+::/ooooooo:     Host: Raspberry Pi 2 Model B Rev 1.1
-   `:oooooooo+``    `.oooooooo+-      Kernel: 6.1.21-v7+
-     `:++ooo/.        :+ooo+/.`       Uptime: 12 hours
-        ...`  `.----.` ``..           Packages: 1436 (dpkg)
-     .::::-``:::::::::.`-:::-`        Shell: bash 5.1.4
-    -:::-`   .:::::::-`  `-:::-       Terminal: /dev/pts/
-   `::.  `.--.`  `` `.---.``.::`      CPU: BCM2835 (4) @ 1.000GHz
-       .::::::::`  -::::::::` `       Memory: 163MiB / 933MiB
- .::` .:::::::::- `::::::::::``::.    Languages: Python, Lua, HTML
--:::` ::::::::::.  ::::::::::.`:::-   Gender: Male
-::::  -::::::::.   `-::::::::  ::::   Name: twigkid
--::-   .-:::-.``....``.-::-.   -::-
- .. ``       .::::::::.     `..`..
-   -:::-`   -::::::::::`  .:::::`
-   :::::::` -::::::::::` :::::::.
-   .:::::::  -::::::::. ::::::::
-    `-:::::`   ..--.`   ::::::.
-      `...`  `...--..`  `...`
-            .::::::::::
-             `.-::::-``
+       _,met$$$$$gg.          twigkid@pi
+    ,g$$$$$$$$$$$$$$$P.       -------------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) aarch64
+ ,$$P'              `$$$.     Host: Raspberry Pi 5 Model B Rev 1.0
+',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-rpi8-rpi-2712
+`d$$'     ,$P"'   .    $$$    Uptime: 6 hours, 10 mins
+ $$P      d$'     ,    $$P    Packages: 1399 (dpkg)
+ $$:      $$.   -    ,d$$'    Shell: bash 5.2.15
+ $$;      Y$b._   _,d$P'      Terminal: /dev/pts/0
+ Y$$.    `.`"Y$$$$P"'         CPU: (4) @ 3.000GHz
+ `$$b      "-.__              Memory: 1556MiB / 8053MiB
+  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""
+
+piroot@picore:~ $
 ```
