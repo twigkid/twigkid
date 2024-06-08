@@ -1,5 +1,5 @@
-local twigkid = {
-  Skills = {
+local twigkid = {\n
+  Skills = {\n
     "Lua",
     "Python",
     "HTML",
