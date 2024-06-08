@@ -1,3 +1,4 @@
+```
 local twigkid = {\n
   Skills = {\n
     "Lua",
@@ -23,4 +24,4 @@ local projects = {
   "Orion Glitcher",
   "SG: Delima",
   "Cosmos Glitcher",
-}
+}```
