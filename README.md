@@ -7,10 +7,6 @@ local twigkid = {\n
     "VFX",
     "RBLX Dev",
   }
-  About = {
-    Pronouns = "He/Him",
-    Gender = "Male",
-  }
   Intrests = {
     "Raspberry Pi",
     "Linux",
